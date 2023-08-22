@@ -1,0 +1,73 @@
+body {
+    padding: 8px;
+    margin: 8px;
+    background-color: gray;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+  }
+
+  h1 {
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+   
+  }
+  h1:hover{
+    color: red;
+    font-size: 45px;
+    border-color: black;
+    border-style: double;
+    cursor: pointer;
+    background-color: black;
+  }
+
+  form {
+    margin-bottom: 10px;
+    margin: 18px;
+    padding: 12px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  textarea,
+  input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+
+  input[type="submit"] {
+    padding: 10px 20px;
+    background-color: skyblue;
+    color: #181f21;
+    border: none;
+    cursor: pointer;
+  }
+
+  #detailsContainer {
+    margin-top: 30px;
+  }
+
+  #detailsContainer h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  #detailsContainer h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+
+  #detailsContainer p {
+    margin-bottom: 10px;
+  }
+
+  #detailsContainer img {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+</style>
