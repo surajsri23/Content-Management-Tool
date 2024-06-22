@@ -26,13 +26,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/surajsri23/Content-Management-Tool.git
+   git clone https://github.com/surajsri23/content-management-tool.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Content-Management-Tool
+   cd content-management-tool
    ```
 
 3. Open `index.html` in your preferred web browser.
